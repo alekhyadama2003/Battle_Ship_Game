@@ -1,0 +1,6 @@
+CREATE TABLE players(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    username TEXT UNIQUE,
+    games_played INTEGER DEFAULT 0,
+    games_won INTEGER DEFAULT 0
+);
