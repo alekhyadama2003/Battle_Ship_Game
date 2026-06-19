@@ -117,7 +117,7 @@ CREATE TABLE match_history (
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/BattleShip-Game.git
+git clone  https://github.com/alekhyadama2003/BattleShip-Game.git
 ```
 
 ### Navigate to Project
